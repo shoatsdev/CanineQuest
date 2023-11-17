@@ -6,13 +6,13 @@
 rotation = 0.0662836
 
 [node name="Sprite2D" parent="." instance=ExtResource("1_by1xq")]
-position = Vector2(204.283, 223.961)
+position = Vector2(226.702, 214.455)
 
 [node name="Button" type="Button" parent="."]
-offset_left = 102.885
-offset_top = 70.3399
-offset_right = 330.885
-offset_bottom = 123.34
+offset_left = 121.318
+offset_top = 46.0657
+offset_right = 349.318
+offset_bottom = 99.0657
 rotation = -0.062646
 text = "Toggle motion"
 
